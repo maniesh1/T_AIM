@@ -1,6 +1,9 @@
 # backend
+```
+pip install -r requirements.txt
 
-
+python3 application/api.py
+```
 # fronted
 
 ## Project setup
